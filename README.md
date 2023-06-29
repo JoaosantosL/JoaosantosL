@@ -1,2 +1,2 @@
 
-Copyright (c) 2016 JsCord.
+Copyright (c) 2023 JsCord.
