@@ -7,7 +7,7 @@
 
 ```javascript
 const dev = {
-  codeAndTools: ["JavaScript", "NodeJS", "React", "C", "Python", "MySQL", "HTML"],
+  codeAndTools: ["JavaScript", "NodeJS", "React", "C", "Python", "MySQL", "HTML". "CSS"],
   mindset: "Learning something new every day 🚀",
   currentFocus: {
     challenge: "Building projects and sharing knowledge 💡"
